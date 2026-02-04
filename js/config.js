@@ -31,50 +31,50 @@ const SITE_CONFIG = {
 const PRODUCTS = [
   {
     id: 1,
-    name: "فستان أسود أنيق",
-    description: "فستان كلاسيكي أسود مع تفاصيل راقية وتصميم عصري",
-    image: "images/product1.jpg",
-    videoUrl: "https://www.instagram.com/reel/XXXXX/", // غيري XXXXX برقم الرeel
+    name: "بنطلون بيجامة شتوي",
+    description: "بنطلون بيجامة شتوي مصنوع من قماش الفرو (المخمل) الناعم جداً والدافئ. يتميز بخصر مطاطي مريح وقصة واسعة، ومزين بطباعة كبيرة لوجوه \"هالو كيتي\" وعبارة \"HELLO KITTY\" باللغة الإنجليزية.",
+    image: "../nevada-fashion/images/pink.jpeg",
+    videoUrl: "https://www.instagram.com/nevvada.store/p/DUT-X0XDfwq/",
     buyUrl: "https://www.instagram.com/nevvada.store/"
   },
   {
     id: 2,
-    name: "بلوزة وردية فاتحة",
-    description: "بلوزة ناعمة بلون وردي جميل مع خامة قطن طبيعية",
-    image: "images/product2.jpg",
-    videoUrl: "https://www.instagram.com/reel/XXXXX/",
+    name: "بنطلون بيجامة شتوي",
+    description: "بنطلون بيجامة شتوي مصنوع من قماش الفرو (المخمل) الناعم جداً والدافئ. يتميز بخصر مطاطي مريح وقصة واسعة، ومزين بطباعة كبيرة لوجوه \"هالو كيتي\" وعبارة \"HELLO KITTY\" باللغة الإنجليزية.",
+    image: "../nevada-fashion/images/gree.jpeg",
+    videoUrl: "https://www.instagram.com/nevvada.store/p/DUT-X0XDfwq/",
     buyUrl: "https://www.instagram.com/nevvada.store/"
   },
   {
     id: 3,
-    name: "جاكيت بيج فاخر",
-    description: "جاكيت بلون بيج ناعم مع خامة عالية الجودة وتفاصيل دقيقة",
-    image: "images/product3.jpg",
-    videoUrl: "https://www.instagram.com/reel/XXXXX/",
+    name: "بنطلون بيجامة شتوي",
+    description: "بنطلون بيجامة شتوي مصنوع من قماش الفرو (المخمل) الناعم جداً والدافئ. يتميز بخصر مطاطي مريح وقصة واسعة، ومزين بطباعة كبيرة لوجوه \"هالو كيتي\" وعبارة \"HELLO KITTY\" باللغة الإنجليزية.",
+    image: "../nevada-fashion/images/red.jpeg",
+    videoUrl: "https://www.instagram.com/nevvada.store/p/DUT-X0XDfwq/",
     buyUrl: "https://www.instagram.com/nevvada.store/"
   },
   {
     id: 4,
-    name: "فستان كحلي مزخرف",
-    description: "فستان بلون كحلي جميل مع زخرفات ذهبية أنيقة",
-    image: "images/product4.jpg",
-    videoUrl: "https://www.instagram.com/reel/XXXXX/",
+    name: "تيشيرت بتصميم رياضي",
+    description: "تيشيرت بتصميم رياضي (جيرسي) بياقة على شكل حرف V. يتميز بخطوط طولية عريضة باللونين الأبيض والوردي. التفاصيل: يحمل اسم \"HELLO KITTY\" بخط عريض في المنتصف، مع شعار وجه القطة على الجهة اليسرى وشعار يشبه شعارات الأندية الرياضية على الجهة اليمنى. تصميمه عصري ويجمع بين الطابع الرياضي واللطافة",
+    image: "../nevada-fashion/images/tchirt.jpeg",
+    videoUrl: "https://www.instagram.com/nevvada.store/p/DQGAD7AiAVt/",
     buyUrl: "https://www.instagram.com/nevvada.store/"
   },
   {
     id: 5,
-    name: "قميص أبيض كلاسيكي",
-    description: "قميص أبيض بسيط وأنيق يناسب جميع المناسبات",
-    image: "images/product5.jpg",
-    videoUrl: "https://www.instagram.com/reel/XXXXX/",
+    name: "بنطلون مريح للاسترخاء",
+    description: "بنطلون مريح للاسترخاء (Lounge pants)، يبدو قماشه أخف قليلاً من السراويل الشتوية (ربما قطن أو بوليستر ناعم). التصميم: يتميز بخلفية بيضاء ومغطى بالكامل بنقشة متكررة ومزدحمة لوجوه هالو كيتي بفيونكات وردية، مما يعطيه مظهراً مرحاً وحيوياً",
+    image: "../nevada-fashion/images/srwal.jpeg",
+    videoUrl: "https://www.instagram.com/nevvada.store/reel/DTQtbTvDdnj/",
     buyUrl: "https://www.instagram.com/nevvada.store/"
   },
   {
     id: 6,
-    name: "فستان جينز أنيق",
+    name: "سلسلة فضية",
     description: "فستان جينز عصري مع قصة مريحة وأنيقة",
-    image: "images/product6.jpg",
-    videoUrl: "https://www.instagram.com/reel/XXXXX/",
+    image: "../nevada-fashion/images/t1.jpeg",
+    videoUrl: "https://www.instagram.com/nevvada.store/",
     buyUrl: "https://www.instagram.com/nevvada.store/"
   }
 ];
