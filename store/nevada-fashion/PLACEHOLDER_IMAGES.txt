@@ -1,0 +1,218 @@
+<!-- 
+   Nevada Fashion - أكواد تجريبية بسيطة للصور
+   Quick Placeholder Images Code
+   
+   استخدمي هذه الأكواد إذا لم تكن لديكِ صور حقيقية حتى الآن
+   كل كود يحتوي على صورة ملونة مع emoji تمثيلي
+-->
+
+<!-- ============================================================
+     طريقة الاستخدام:
+     1. انسخي أي من هذه الأكواد
+     2. ضعيه بدلاً من <img src="images/product1.jpg">
+     3. احفظي وشوفي النتيجة مباشرة!
+     ============================================================ -->
+
+<!-- 
+     PRODUCT 1 - فستان أسود أنيق
+     Replace: <img src="images/product1.jpg" alt="فستان أسود أنيق">
+     With one of these options:
+-->
+
+<!-- Option 1: Simple gradient with emoji -->
+<div class="product-image" style="
+    background: linear-gradient(135deg, #2c2c2c 0%, #1a1a1a 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+">👗</div>
+
+<!-- Option 2: Image placeholder from service -->
+<img src="https://via.placeholder.com/300x300/2c2c2c/ffffff?text=Elegant+Dress" alt="فستان أسود أنيق">
+
+<!-- Option 3: Unsplash real image -->
+<img src="https://images.unsplash.com/photo-1595777707802-a9e02a64df86?w=300&h=300&fit=crop" alt="فستان أسود أنيق">
+
+---
+
+<!-- 
+     PRODUCT 2 - بلوزة وردية فاتحة
+     Replace: <img src="images/product2.jpg" alt="بلوزة وردية فاتحة">
+-->
+
+<div class="product-image" style="
+    background: linear-gradient(135deg, #f5d4d4 0%, #e8b8b8 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+">👕</div>
+
+<img src="https://via.placeholder.com/300x300/f5d4d4/333333?text=Pink+Blouse" alt="بلوزة وردية فاتحة">
+
+<img src="https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=300&h=300&fit=crop" alt="بلوزة وردية فاتحة">
+
+---
+
+<!-- 
+     PRODUCT 3 - جاكيت بيج فاخر
+     Replace: <img src="images/product3.jpg" alt="جاكيت بيج فاخر">
+-->
+
+<div class="product-image" style="
+    background: linear-gradient(135deg, #d4c5b9 0%, #c4b5a8 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+">🧥</div>
+
+<img src="https://via.placeholder.com/300x300/d4c5b9/333333?text=Beige+Jacket" alt="جاكيت بيج فاخر">
+
+<img src="https://images.unsplash.com/photo-1539533057440-7bf6b1a92247?w=300&h=300&fit=crop" alt="جاكيت بيج فاخر">
+
+---
+
+<!-- 
+     PRODUCT 4 - فستان كحلي مزخرف
+     Replace: <img src="images/product4.jpg" alt="فستان كحلي مزخرف">
+-->
+
+<div class="product-image" style="
+    background: linear-gradient(135deg, #1a2a4a 0%, #0f1a3a 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+    color: #ffd700;
+">✨</div>
+
+<img src="https://via.placeholder.com/300x300/1a2a4a/ffd700?text=Navy+Dress" alt="فستان كحلي مزخرف">
+
+<img src="https://images.unsplash.com/photo-1595695917841-35fd8a5a0d11?w=300&h=300&fit=crop" alt="فستان كحلي مزخرف">
+
+---
+
+<!-- 
+     PRODUCT 5 - قميص أبيض كلاسيكي
+     Replace: <img src="images/product5.jpg" alt="قميص أبيض كلاسيكي">
+-->
+
+<div class="product-image" style="
+    background: linear-gradient(135deg, #ffffff 0%, #f0f0f0 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+    color: #d4a5a5;
+">👔</div>
+
+<img src="https://via.placeholder.com/300x300/ffffff/333333?text=White+Shirt" alt="قميص أبيض كلاسيكي">
+
+<img src="https://images.unsplash.com/photo-1594937351039-f9pm-4070-9a28-3e5e95dc8bde?w=300&h=300&fit=crop" alt="قميص أبيض كلاسيكي">
+
+---
+
+<!-- 
+     PRODUCT 6 - فستان جينز أنيق
+     Replace: <img src="images/product6.jpg" alt="فستان جينز أنيق">
+-->
+
+<div class="product-image" style="
+    background: linear-gradient(135deg, #4a6fa5 0%, #2c4a7a 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+">👖</div>
+
+<img src="https://via.placeholder.com/300x300/4a6fa5/ffffff?text=Denim+Dress" alt="فستان جينز أنيق">
+
+<img src="https://images.unsplash.com/photo-1573050528158-e67d6305186e?w=300&h=300&fit=crop" alt="فستان جينز أنيق">
+
+---
+
+<!-- ============================================================
+     LOGO - الشعار
+     ============================================================ -->
+
+<!-- Option 1: Simple emoji -->
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'%3E%3Ccircle cx='100' cy='100' r='100' fill='%23d4a5a5'/%3E%3Ctext x='100' y='130' font-size='80' text-anchor='middle' fill='white'%3E✨%3C/text%3E%3C/svg%3E" alt="Nevada Fashion" style="height: 40px;">
+
+<!-- Option 2: Placeholder service -->
+<img src="https://via.placeholder.com/200x200/d4a5a5/ffffff?text=NF" alt="Nevada Fashion" style="height: 40px;">
+
+<!-- Option 3: Unsplash logo -->
+<img src="https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=40&h=40&fit=crop" alt="Nevada Fashion Logo" style="height: 40px; border-radius: 50%;">
+
+---
+
+<!-- ============================================================
+     نصائح مهمة:
+     ============================================================ -->
+
+<!-- 
+1. الطريقة 1: Gradient + Emoji (الأسرع)
+   ✓ لا تحتاج إنترنت
+   ✓ تحميل فوري
+   ✓ جميلة جداً
+   المشكلة: قد تبدو تجريبية
+
+2. الطريقة 2: Placeholder.com (الوسط)
+   ✓ سريعة نسبياً
+   ✓ واضحة جداً
+   ✓ تحتاج إنترنت
+   المشكلة: قد تتغير الخدمة
+
+3. الطريقة 3: صور حقيقية من Unsplash (الأفضل)
+   ✓ صور حقيقية عالية الجودة
+   ✓ من موقع موثوق
+   ✓ آمنة تماماً
+   المشكلة: تحتاج إنترنت أثناء التصفح الأول
+
+الخيار الأفضل:
+→ استخدمي Gradient + Emoji للسرعة الآن
+→ لاحقاً استبدلي بصور حقيقية من Unsplash
+→ أو ضعي الصور مباشرة في مجلد images/
+-->
+
+<!-- ============================================================
+     كيفية الاستبدال السريع:
+     ============================================================ -->
+
+<!--
+في ملف index.html، ابحثي عن:
+
+<img src="images/product1.jpg" alt="فستان أسود أنيق">
+
+استبدليها بأحد الخيارات أعلاه:
+
+1. لو تريدين سرعة (Emoji):
+   انسخي هذا:
+   <div class="product-image" style="background: linear-gradient(135deg, #2c2c2c 0%, #1a1a1a 100%); display: flex; align-items: center; justify-content: center; font-size: 60px;">👗</div>
+
+2. لو تريدين صور حقيقية (Unsplash):
+   انسخي الرابط المباشر:
+   <img src="https://images.unsplash.com/photo-1595777707802-a9e02a64df86?w=300&h=300&fit=crop" alt="فستان أسود أنيق">
+
+3. لو لديكِ صورتك الخاصة:
+   <img src="images/product1.jpg" alt="فستان أسود أنيق">
+-->
+
+<!-- ============================================================
+     تحويل سريع:
+     اتبعي هذه الخطوات لتطبيق صورة تجريبية الآن:
+     ============================================================ -->
+
+1. افتحي ملف index.html بمحرر أكواد
+2. ابحثي عن: <img src="images/product1.jpg"
+3. استبدليها بـ:
+   <img src="https://images.unsplash.com/photo-1595777707802-a9e02a64df86?w=300&h=300&fit=crop" alt="فستان أسود أنيق">
+4. احفظي (Ctrl+S)
+5. أعيدي تحميل المتصفح (F5)
+6. شوفي الصورة تظهر مباشرة! 🎉
+
+---
+
+✨ استمتعي بموقعك! ✨
